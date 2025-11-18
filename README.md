@@ -2,7 +2,7 @@
 
 Sistema de Gestión de Proyectos de Grado – FESC
 
-INTRODUCCION
+**INTRODUCCION**
 Este portafolio contiene la documentación UML dinámica completa para el sistema integral de gestión de proyectos de grado de la FESC.
 El objetivo es modelar todas las interacciones, procesos y transiciones del ciclo de vida del proyecto de grado, desde su propuesta inicial hasta la aprobación final.
 
